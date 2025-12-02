@@ -1,8 +1,9 @@
-🌐 Qt Netzwerk Monitor
+    🌐 Qt Netzwerk Monitor
 Ein modernes Netzwerk-Analyse-Tool mit schöner Benutzeroberfläche, entwickelt mit Qt6 und QML.
 https://img.shields.io/badge/Qt-6.8-green
 https://img.shields.io/badge/C++-17-blue
-https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey
+https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey![Uploading platform-Windows _ Linux-lightgrey.svg…]()
+
 
 ✨ Features
 
@@ -47,13 +48,14 @@ bash# Windows
 ./appNetworkMonitoring
 📁 Projektstruktur
 NetworkMonitoring/
-├── CMakeLists.txt          # CMake Konfiguration
-├── main.cpp                # Haupt-Einstiegspunkt
-├── Main.qml                # UI Definition
-├── networkmonitor.h        # Header für Netzwerk-Funktionen
-├── networkmonitor.cpp      # Implementierung
-├── .gitignore              # Git Ignore-Datei
-└── README.md               # Diese Datei
+
+├── CMakeLists.txt           
+├── main.cpp                
+├── Main.qml                
+├── networkmonitor.h       
+├── networkmonitor.cpp      
+├── .gitignore             
+└── README.md               
 🎨 UI Features
 
 Farbcodierte Buttons für verschiedene Funktionen
