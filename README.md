@@ -114,7 +114,7 @@ Dieses Projekt ist unter der MIT Lizenz lizenziert - siehe [LICENSE](LICENSE) Da
 
 ## 👨‍💻 Autor
 
-Dein Name - [@AhmettheDJ](https://github.com/AhmettheDJ)
+Ahmet Öztürk. Github name: - [@AhmettheDJ](https://github.com/AhmettheDJ)
 
 ## 🙏 Danksagungen
 
